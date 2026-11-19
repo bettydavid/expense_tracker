@@ -27,3 +27,12 @@ Pseudocode
 5. The system will add the expense to a collection: Expense
 6. The system will display the expense detail
 
+
+-------------------------------------------------
+It’s part of a common convention called Conventional Commits. The word before the colon tells readers what kind of change the commit is:
+
+feat: is a new feature (you added the ability to add expenses)
+fix: is a bug fix
+docs: is documentation or notes only (your Task 1 commit)
+chore: is setup or housekeeping (your Task 0 commit)
+test: is tests
