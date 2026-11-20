@@ -9,3 +9,22 @@
 - Next small step: Task 3, print each expense with a for loop
 
 -------------------------------------------------
+
+## 20 Nov 2026 / Task 3: list all expenses
+
+- What I learned:
+  - I learn to view all expenses that I have added
+  - I learn to use for loop and print dictionaries in them
+- What got me stuck (and how I fixed it): 
+  - The usage of print f especially .2f, it turns out print (f"{expense['Price'].2f}")
+  "{value:format}"
+- Next small step: Task 4, add up the total
+
+-------------------------------------------------
+## 20 Nov 2026 / Task 3: list all expenses
+
+- What I learned: 
+  - 
+- What got me stuck (and how I fixed it): 
+  -
+- Next small step: 
